@@ -1,8 +1,4 @@
-Absolutely. I’ll keep **your content and information the same**, but fix the GitHub Markdown structure so the sections, tables, flowcharts, lists, and project tree render properly.
 
-Copy-paste this version directly into your `README.md`:
-
-````markdown
 # 🔍 Image Forensics
 
 A browser-based image metadata and forensic analysis tool that reveals hidden information embedded inside digital images.
