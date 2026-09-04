@@ -103,6 +103,7 @@ Opened in Google Maps
 
 If GPS information does not exist, the application clearly reports that it was not found.
 
+
 🔐 Privacy
 
 Privacy is one of the core principles of the project.
@@ -134,6 +135,8 @@ Metadata Analysis	Browser-side EXIF metadata extraction
 Maps	Interactive GPS map
 Icons	Lucide / icon library
 Deployment	Static web hosting
+
+
 📁 Project Structure
 image-forensics/
 ├── src/
@@ -182,7 +185,7 @@ npm run dev
 
 Then open:
 
-http://localhost:5173
+(https://nightwave-hero-update--kunal46756.replit.app/)
 🖥️ How to use
 1. Open Image Forensics
 
